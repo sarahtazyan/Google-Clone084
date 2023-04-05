@@ -1,2 +1,17 @@
-#qsearch {
+.imgsbutton {
+  display: inline-block;
+  line-height: 24px;
+  vertical-align: middle;
+  right: 0;
+  display: inline-block;
+  padding-left: 1300px;
+}
+
+.advbutton {
+  display: inline-block;
+  line-height: 24px;
+  vertical-align: middle;
+  right: 0;
+  display: inline-block;
+  padding-left: 1300px;
 }
